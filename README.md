@@ -1,1 +1,3 @@
 # IOT_weight_scale-project
+
+A digital weight and health monitoring system aims to measure the weight and height of people with the ability to keep a diet chart. Here, we use an HC-SR04 ultrasonic sensor to determine the height distance of an object and a weight scale sensor that can convert weight into an equivalent electrical signal. This weight scale sensor is called a load cell. In this project, we will use four load cells with the capacity to measure up to 50 kg as our weight sensors. These four load cells measure weight, send to Arduino, measure height with HC-SR04, measure BMI, and show the values on the OLED display. Through this project, people will be able to check their BMI and see a smart diet chart for them which will help a person live a healthy life.
